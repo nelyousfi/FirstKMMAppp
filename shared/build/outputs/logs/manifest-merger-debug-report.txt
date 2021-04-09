@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/naoufal/Code/Lab/FirstKotlinMutliplatformMobileApp/shared/src/androidMain/AndroidManifest.xml:2:1-134
+INJECTED from /Users/naoufal/Code/Lab/FirstKotlinMutliplatformMobileApp/shared/src/androidMain/AndroidManifest.xml:2:1-134
+INJECTED from /Users/naoufal/Code/Lab/FirstKotlinMutliplatformMobileApp/shared/src/androidMain/AndroidManifest.xml:2:1-134
+	package
+		ADDED from /Users/naoufal/Code/Lab/FirstKotlinMutliplatformMobileApp/shared/src/androidMain/AndroidManifest.xml:2:70-132
+		INJECTED from /Users/naoufal/Code/Lab/FirstKotlinMutliplatformMobileApp/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/naoufal/Code/Lab/FirstKotlinMutliplatformMobileApp/shared/src/androidMain/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/naoufal/Code/Lab/FirstKotlinMutliplatformMobileApp/shared/src/androidMain/AndroidManifest.xml:2:11-69
+uses-sdk
+INJECTED from /Users/naoufal/Code/Lab/FirstKotlinMutliplatformMobileApp/shared/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/naoufal/Code/Lab/FirstKotlinMutliplatformMobileApp/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/naoufal/Code/Lab/FirstKotlinMutliplatformMobileApp/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/naoufal/Code/Lab/FirstKotlinMutliplatformMobileApp/shared/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/naoufal/Code/Lab/FirstKotlinMutliplatformMobileApp/shared/src/androidMain/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/naoufal/Code/Lab/FirstKotlinMutliplatformMobileApp/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/naoufal/Code/Lab/FirstKotlinMutliplatformMobileApp/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/naoufal/Code/Lab/FirstKotlinMutliplatformMobileApp/shared/src/androidMain/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/naoufal/Code/Lab/FirstKotlinMutliplatformMobileApp/shared/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/naoufal/Code/Lab/FirstKotlinMutliplatformMobileApp/shared/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/naoufal/Code/Lab/FirstKotlinMutliplatformMobileApp/shared/src/androidMain/AndroidManifest.xml

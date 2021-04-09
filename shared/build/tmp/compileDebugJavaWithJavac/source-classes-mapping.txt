@@ -1,0 +1,2 @@
+com/example/firstkotlinmutliplatformmobileapp/shared/BuildConfig.java
+ com.example.firstkotlinmutliplatformmobileapp.shared.BuildConfig
